@@ -1,0 +1,7 @@
+{
+	"name": "multiplication table",
+	"main": "index.html",
+	"window":{
+		"toolbar": false
+	}
+}

@@ -1,0 +1,12 @@
+canvas {
+  background: grey;
+}
+#canForeground {
+  background: grey;
+}
+#sceneDiv {
+  all: none;
+}
+.tM20 {
+	margin-top: 20px;
+}
